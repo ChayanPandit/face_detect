@@ -1,0 +1,13 @@
+names:
+- Uncovered
+- Hand_and_Object
+- Helmet
+- Turban
+- Cap
+- Mask
+- Scarf
+- Spectacles
+nc: 8
+path: /kaggle/input/modified-dataset/Modified_Without_Hands_Used
+train: train/images
+val: val/images
